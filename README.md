@@ -2,6 +2,10 @@
 
 A premium portfolio website showcasing cutting-edge web development and design skills. Built with modern web technologies and featuring interactive animations, glassmorphism design, and progressive web app capabilities.
 
+## 🌐 Live Demo
+
+**Live Site**: [mutlukurt.github.io/jordan-blake-portfolio](https://mutlukurt.github.io/jordan-blake-portfolio)
+
 ## ✨ Features
 
 - **Modern Design**: Glassmorphism UI with smooth animations
@@ -182,11 +186,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Jordan Blake** - Creative Developer & Digital Artist
+**Mutlu Kurt** - Creative Developer & Digital Artist
 
-- Portfolio: [jordanblake.dev](https://jordanblake.dev)
-- GitHub: [@jordanblake](https://github.com/jordanblake)
-- LinkedIn: [Jordan Blake](https://linkedin.com/in/jordanblake)
+- Portfolio: [mutlukurt.github.io](https://mutlukurt.github.io)
+- GitHub: [@mutlukurt](https://github.com/mutlukurt)
+- LinkedIn: [Mutlu Kurt](https://linkedin.com/in/mutlukurt)
 
 ## 🙏 Acknowledgments
 
